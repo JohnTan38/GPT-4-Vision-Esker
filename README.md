@@ -83,6 +83,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<a target="_blank" href="https://colab.research.google.com/github/JohnTan38/GPT-4-Vision-Esker/blob/master/GPT_4_Vision_Esker.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
