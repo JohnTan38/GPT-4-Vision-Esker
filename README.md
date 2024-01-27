@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Click 'Open in Colab' button to open Project in Google Colab
 
 <a target="_blank" href="https://colab.research.google.com/github/JohnTan38/GPT-4-Vision-Esker/blob/master/GPT_4_Vision_Esker.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
